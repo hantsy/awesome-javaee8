@@ -54,6 +54,9 @@ Welcome to contribute!
 
 * [Public Review of JSON-P Specification 1.1 is Now Open](https://www.infoq.com/news/2017/03/json-processing-public-review)
 
+## JSON-B 1.0
+
+
 ## JAX-RS 2.1
 
 * [Jersey Client Dependencies for JAX-RS 2.1](https://dzone.com/articles/jersey-client-dependencies-for-jax-rs-21)
