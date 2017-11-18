@@ -22,6 +22,7 @@ Welcome to contribute!
 * [Oracle Java EE 8 SDK](http://www.oracle.com/technetwork/java/javaee/downloads/index.html), including the open-source Glassfish distribution, samples, tutorials.
 * [Eclipse MicroProfile](http://microprofile.io), brings Java EE to cloud natvie applications.
 * [Java EE 8 @ JavaONE 2017](https://blogs.oracle.com/theaquarium/java-ee-8-javaone-2017)
+* [Java EE 8 by example](https://hantsy.gitbooks.io/java-ee-8-by-example/content/), ads for myself, ):.
 
 ## CDI 2.0
 
@@ -46,7 +47,7 @@ Welcome to contribute!
 
 * [Bean Validation 2.0 ](https://dzone.com/articles/bean-validation-20)
 * [Bean Validation 2.0 - A new JSR is born!](http://beanvalidation.org/news/2016/07/15/bean-validation-2-0-is-coming/)
-* [And here comes Hibernate Validator 6.0 Final with Bean Validation 2.0 support](http://in.relation.to/2017/08/07/and-here-comes-hibernate-validator-60
+* [And here comes Hibernate Validator 6.0 Final with Bean Validation 2.0 support](http://in.relation.to/2017/08/07/and-here-comes-hibernate-validator-60)
 * [Validating Container Elements with Bean Validation 2.0](http://www.baeldung.com/bean-validation-container-elements)
 
 ## JSON-P 1.1
