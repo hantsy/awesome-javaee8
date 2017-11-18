@@ -22,7 +22,7 @@ Welcome to contribute!
 * [Oracle Java EE 8 SDK](http://www.oracle.com/technetwork/java/javaee/downloads/index.html), including the open-source Glassfish distribution, samples, tutorials.
 * [Eclipse MicroProfile](http://microprofile.io), brings Java EE to cloud natvie applications.
 * [Java EE 8 @ JavaONE 2017](https://blogs.oracle.com/theaquarium/java-ee-8-javaone-2017)
-* [Java EE 8 by example](https://hantsy.gitbooks.io/java-ee-8-by-example/content/), ads for myself, ):.
+* [Java EE 8 by example](https://hantsy.gitbooks.io/java-ee-8-by-example/content/), ads for myself, ):
 
 ## CDI 2.0
 
@@ -33,7 +33,7 @@ Welcome to contribute!
 
 ## JSF 2.3
 
-* [What's new in JSF 2.3? ](http://arjan-tijms.omnifaces.org/p/jsf-23.html), a must-read article when upgrading to JSF 2.3.
+* [What's new in JSF 2.3? ](http://arjan-tijms.omnifaces.org/p/jsf-23.html), by Arjan Tijms, a must-read article when upgrading to JSF 2.3.
 * [Migrate your @ManagedProperty annotations](http://www.manorrock.com/blog/2013/11/01/jsf_tip_31_migrate_your_managedproperty_annotations.html)
 
 ## JPA 2.2
@@ -60,7 +60,7 @@ Welcome to contribute!
 
 ## Java EE Security 1.0
 
-* [What's new in Java EE Security API 1.0? ](http://arjan-tijms.omnifaces.org/p/whats-new-in-java-ee-security-api-10.html), a must read blog entry for Java EE Security.
+* [What's new in Java EE Security API 1.0? ](http://arjan-tijms.omnifaces.org/p/whats-new-in-java-ee-security-api-10.html),  by Arjan Tijms, a must read blog entry for Java EE Security.
 * [Playing with Java EE Security (JSR-375) — Soteria](https://medium.com/@swhp/playing-with-java-ee-security-jsr-375-soteria-38e8d2b094d4)
 
 
