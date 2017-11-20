@@ -61,6 +61,9 @@ Welcome to contribute!
 
 ## JAX-RS 2.1
 
+* [https://www.infoq.com/news/2017/08/JAX-RS-2.1-released](https://www.infoq.com/news/2017/08/JAX-RS-2.1-released)
+* [JAX-RS 2.1 Reactive Client API](https://blogs.oracle.com/pavelbucek/jax-rs-21-reactive-client-api)
+* [JAX-RS 2.1 New Feature Introduction](http://ridingthecrest.com/blog/2017/02/22/jax-rs-2_1-new-feature-introduction.html)
 * [Jersey Client Dependencies for JAX-RS 2.1](https://dzone.com/articles/jersey-client-dependencies-for-jax-rs-21)
 
 ## Servlet 4.0
