@@ -5,7 +5,7 @@ A centric checklist of awesome Java EE 8 resources, including news, blog entries
 Welcome to contribute!
 
 
-## Java EE 8 News and community activities
+## Java EE 8 news and community activities
 
 * [Java EE 8 and GlassFish 5.0 Released!](https://blogs.oracle.com/theaquarium/java-ee-8-is-final-and-glassfish-50-is-released), the Oracle official announcement.
 * [Java EE Guardians](https://javaee-guardians.io/)
@@ -22,7 +22,7 @@ Welcome to contribute!
 * [Oracle Java EE 8 SDK](http://www.oracle.com/technetwork/java/javaee/downloads/index.html), including the open-source Glassfish distribution, samples, tutorials.
 * [Eclipse MicroProfile](http://microprofile.io), brings Java EE to cloud natvie applications.
 * [Java EE 8 @ JavaONE 2017](https://blogs.oracle.com/theaquarium/java-ee-8-javaone-2017)
-* [Java EE 8 by example](https://hantsy.gitbooks.io/java-ee-8-by-example/content/), ads for myself, ):
+* [Java EE 8 by example](https://hantsy.gitbooks.io/java-ee-8-by-example/content/), ads for myself :smile:
 
 ## CDI 2.0
 
@@ -56,10 +56,17 @@ Welcome to contribute!
 
 ## JSON-B 1.0
 
+* [JSON Binding API - Getting Started](http://json-b.net/getting-started.html)
+* [Gettting Started with JSON-B](https://www.javaindeed.com/getting-started-with-json-b/)
 
 ## JAX-RS 2.1
 
 * [Jersey Client Dependencies for JAX-RS 2.1](https://dzone.com/articles/jersey-client-dependencies-for-jax-rs-21)
+
+## Servlet 4.0
+
+* [Ed Burns Discusses HTTP/2 and the Java EE Servlet 4 Specification](https://www.infoq.com/news/2015/03/burns-servlet-http2)
+* [First Look at HTTP/2 Server Push in Java Servlet 4.0 Specification](https://dzone.com/articles/first-look-at-http2-server-push-in-java-servlet-40-1)
 
 ## Java EE Security 1.0
 
