@@ -21,7 +21,8 @@ Welcome to contribute!
 * [Download Glassfish v5](https://javaee.github.io/glassfish/download)
 * [Oracle Java EE 8 SDK](http://www.oracle.com/technetwork/java/javaee/downloads/index.html), including the open-source Glassfish distribution, samples, tutorials.
 * [Eclipse MicroProfile](http://microprofile.io), brings Java EE to cloud natvie applications.
-* [Java EE 8 @ JavaONE 2017](https://blogs.oracle.com/theaquarium/java-ee-8-javaone-2017)
+* [Java EE 8 @ JavaONE 2017](https://blogs.oracle.com/theaquarium/java-ee-8-javaone-2017
+* [Java EE 8 Hands On Lab](https://github.com/javaee/j1-hol)
 * [Java EE 8 by example](https://hantsy.gitbooks.io/java-ee-8-by-example/content/), ads for myself :smile:
 
 ## CDI 2.0
@@ -61,7 +62,7 @@ Welcome to contribute!
 
 ## JAX-RS 2.1
 
-* [https://www.infoq.com/news/2017/08/JAX-RS-2.1-released](https://www.infoq.com/news/2017/08/JAX-RS-2.1-released)
+* [Java API for RESTful Web Services 2.1 Released](https://www.infoq.com/news/2017/08/JAX-RS-2.1-released)
 * [JAX-RS 2.1 Reactive Client API](https://blogs.oracle.com/pavelbucek/jax-rs-21-reactive-client-api)
 * [JAX-RS 2.1 New Feature Introduction](http://ridingthecrest.com/blog/2017/02/22/jax-rs-2_1-new-feature-introduction.html)
 * [Jersey Client Dependencies for JAX-RS 2.1](https://dzone.com/articles/jersey-client-dependencies-for-jax-rs-21)
