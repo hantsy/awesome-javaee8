@@ -25,6 +25,7 @@ Welcome to contribute!
 * [Java EE 8 @ JavaONE 2017](https://blogs.oracle.com/theaquarium/java-ee-8-javaone-2017)
 * [Java EE 8 Hands On Lab ](https://github.com/javaee/j1-hol)
 * [Java Magazine November/December 2017 Edtion](http://www.javamagazine.mozaicreader.com/NovDec2017#&pageSet=12&page=0) focuses on Java EE 8 update
+* [What's new in Java EE 8](https://www.ibm.com/developerworks/library/j-whats-new-in-javaee-8/), a Java EE 8 overview from IBM DeveloperWorks
 * [Java EE 8 by example](https://hantsy.gitbooks.io/java-ee-8-by-example/content/), ads for myself :smile:
 
 ## CDI 2.0
