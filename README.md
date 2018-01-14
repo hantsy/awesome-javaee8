@@ -46,6 +46,7 @@ Welcome to contribute!
 * [JPA 2.2’s new getResultStream() method and how you should NOT use it](https://www.thoughts-on-java.org/jpa-2-2s-new-stream-method-and-how-you-should-not-use-it/)
 * [What’s new in JPA 2.2 – Stream the result of a Query execution](https://vladmihalcea.com/2017/07/04/whats-new-in-jpa-2-2-stream-the-result-of-a-query-execution)
 * [What’s new in JPA 2.2 – Java 8 Date and Time Types](https://vladmihalcea.com/2017/06/26/whats-new-in-jpa-2-2-java-8-date-and-time-types/)
+* [Handy Improvements in JPA 2.2](https://www.infoq.com/news/2018/01/improvements-jpa-22)
 
 ## Bean Validation 2.0
 
