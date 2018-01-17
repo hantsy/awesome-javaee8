@@ -63,7 +63,7 @@ Welcome to contribute!
 
 * [JSON Binding API - Getting Started](http://json-b.net/getting-started.html)
 * [Gettting Started with JSON-B](https://www.javaindeed.com/getting-started-with-json-b/)
-* [Get started with the JSON Binding API](https://www.ibm.com/developerworks/java/library/j-javaee8-json-binding-1/), Part 2(not available now),[Part 3](https://www.ibm.com/developerworks/java/library/j-javaee8-json-binding-3/), [Part 4](https://www.ibm.com/developerworks/java/library/j-javaee8-json-binding-4/), JSON-B series from IBM DeveloperWorks
+* [Get started with the JSON Binding API](https://www.ibm.com/developerworks/java/library/j-javaee8-json-binding-1/), [Part 2](https://www.ibm.com/developerworks/java/library/j-javaee8-json-binding-2/),[Part 3](https://www.ibm.com/developerworks/java/library/j-javaee8-json-binding-3/), [Part 4](https://www.ibm.com/developerworks/java/library/j-javaee8-json-binding-4/), JSON-B series from IBM DeveloperWorks
 
 ## JAX-RS 2.1
 
