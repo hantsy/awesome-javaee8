@@ -18,11 +18,9 @@ Welcome to contribute!
 
 ## Java EE 8 learning resources
 
-* [The new home page of Java EE on Github](https://javaee.github.io/)
-* [Java EE 8 Tutorial](https://javaee.github.io/tutorial/), the official Java EE tutorial.
-* [Download Glassfish v5](https://javaee.github.io/glassfish/download)
-* [Oracle Java EE 8 SDK](http://www.oracle.com/technetwork/java/javaee/downloads/index.html), including the open-source Glassfish distribution, samples, tutorials.
-* [Eclipse MicroProfile](http://microprofile.io), brings Java EE to cloud natvie applications.
+* [Java EE home page on Github](https://javaee.github.io/), the official [Java EE 8 Tutorial](https://javaee.github.io/tutorial/), and the reference implementation [Glassfish v5](https://javaee.github.io/glassfish/download).
+* [Oracle Java EE 8 SDK](http://www.oracle.com/technetwork/java/javaee/downloads/index.html), includes the open-source Glassfish distribution, sample codes and tutorials.
+* [Eclipse MicroProfile](http://microprofile.io) picks up the original proposals that had been abandoned in Java EE 8, and it targets Microservice and brings Java EE to cloud native applications.
 * [Java EE 8 @ JavaONE 2017](https://blogs.oracle.com/theaquarium/java-ee-8-javaone-2017)
 * [Java EE 8 Hands On Lab ](https://github.com/javaee/j1-hol)
 * [Java Magazine November/December 2017 Edtion](http://www.javamagazine.mozaicreader.com/NovDec2017#&pageSet=12&page=0) focuses on Java EE 8 update
