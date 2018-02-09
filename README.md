@@ -15,8 +15,8 @@ Welcome to contribute!
 * [We Need Your Help - Moving Java EE to the Eclipse Foundation](https://www.change.org/p/larry-ellison-tell-oracle-to-move-forward-java-ee-as-a-critical-part-of-the-global-it-industry/u/21473794?utm_medium=email&utm_source=petition_update&utm_campaign=146669&sfmc_tk=xZ%2f6z4TGoQ02piKnRtK%2bejNgWC%2bWD6nr3P%2bcjkRrgGJqXJLLTSlXDQ6alq40O5pe&j=146669&sfmc_sub=46994739&l=32_HTML&u=27789648&mid=7259882&jb=1)
 * [Oracle Joins Eclipse MicroProfile Project](https://www.infoq.com/news/2017/11/oraclejoinsmicroprofile)
 * [Joint Community Open Letter on Java EE Naming and Packaging](https://javaee-guardians.io/2018/01/02/joint-community-open-letter-on-java-ee-naming-and-packaging/)
-* [
-Public Review of Java MVC 1.0 Specification is Now Open](https://www.infoq.com/news/2018/01/mvc-1.0-public-review)
+* [Public Review of Java MVC 1.0 Specification is Now Open](https://www.infoq.com/news/2018/01/mvc-1.0-public-review)
+* [Vote for Java EE's New Name](https://www.infoq.com/news/2018/02/JavaEENewNameJan18)
 
 ## Java EE 8 learning resources
 
