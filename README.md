@@ -17,6 +17,7 @@ Welcome to contribute!
 * [Joint Community Open Letter on Java EE Naming and Packaging](https://javaee-guardians.io/2018/01/02/joint-community-open-letter-on-java-ee-naming-and-packaging/)
 * [Public Review of Java MVC 1.0 Specification is Now Open](https://www.infoq.com/news/2018/01/mvc-1.0-public-review)
 * [Vote for Java EE's New Name](https://www.infoq.com/news/2018/02/JavaEENewNameJan18)
+* [From Java EE to Jakarta EE: the Java EE Guardians Rebranding Debate with Oracle](https://www.infoq.com/news/2018/02/from-javaee-to-jakartaee)
 
 ## Java EE 8 learning resources
 
