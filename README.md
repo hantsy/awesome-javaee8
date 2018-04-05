@@ -19,6 +19,7 @@ Welcome to contribute!
 * [Vote for Java EE's New Name](https://www.infoq.com/news/2018/02/JavaEENewNameJan18)
 * [From Java EE to Jakarta EE: the Java EE Guardians Rebranding Debate with Oracle](https://www.infoq.com/news/2018/02/from-javaee-to-jakartaee)
 
+
 ## Java EE 8 learning resources
 
 * [Java EE home page on Github](https://javaee.github.io/), the official [Java EE 8 Tutorial](https://javaee.github.io/tutorial/), and the reference implementation [Glassfish v5](https://javaee.github.io/glassfish/download).
@@ -28,6 +29,7 @@ Welcome to contribute!
 * [Java EE 8 Hands On Lab ](https://github.com/javaee/j1-hol)
 * [Java Magazine November/December 2017 Edtion](http://www.javamagazine.mozaicreader.com/NovDec2017#&pageSet=12&page=0) focuses on Java EE 8 update
 * [What's new in Java EE 8](https://www.ibm.com/developerworks/library/j-whats-new-in-javaee-8/), a Java EE 8 overview from IBM DeveloperWorks
+* [The Top 5 New Features in Java EE 8](https://dzone.com/articles/the-top-5-new-features-in-java-ee-8)
 * [Java EE 8 by example](https://hantsy.gitbooks.io/java-ee-8-by-example/content/), ads for myself :smile:
 
 ## CDI 2.0
