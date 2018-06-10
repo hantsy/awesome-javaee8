@@ -19,6 +19,7 @@ Welcome to contribute!
 * [Vote for Java EE's New Name](https://www.infoq.com/news/2018/02/JavaEENewNameJan18)
 * [From Java EE to Jakarta EE: the Java EE Guardians Rebranding Debate with Oracle](https://www.infoq.com/news/2018/02/from-javaee-to-jakartaee)
 * [New home of Jakarta EE(Next generation of Java EE)](https://jakarta.ee/)
+* [Java EE 8 and the Open Future of Java EE ](https://dzone.com/articles/java-ee-8-and-the-open-future-of-java-ee)
 
 
 ## Java EE 8 learning resources
