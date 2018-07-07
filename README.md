@@ -21,6 +21,9 @@ Welcome to contribute!
 * [New home of Jakarta EE(Next generation of Java EE)](https://jakarta.ee/)
 * [Java EE 8 and the Open Future of Java EE ](https://dzone.com/articles/java-ee-8-and-the-open-future-of-java-ee)
 
+## Books
+
+* [Java EE 8 Recipes](https://www.apress.com/us/book/9781484235935)
 
 ## Java EE 8 learning resources
 
