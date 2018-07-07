@@ -23,7 +23,7 @@ Welcome to contribute!
 
 ## Books
 
-* [Java EE 8 Recipes](https://www.apress.com/us/book/9781484235935)
+* [Java EE 8 Recipes](https://www.apress.com/us/book/9781484235935) by Apress
 
 ## Java EE 8 learning resources
 
