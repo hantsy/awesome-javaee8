@@ -25,7 +25,8 @@ Welcome to contribute!
 
 * [New home of Jakarta EE](https://jakarta.ee/)
 * [Jakarta One](https://jakartaone.org/2019/)
-* [Eclipse EE4j Home page](https://projects.eclipse.org/projects/ee4j)
+* [Jakarta Blog](https://jakartablogs.ee/)
+* [Eclipse EE4j Project](https://projects.eclipse.org/projects/ee4j)
 * [Jakarta EE Tutorial](https://eclipse-ee4j.github.io/jakartaee-tutorial)
 
 ## Books
