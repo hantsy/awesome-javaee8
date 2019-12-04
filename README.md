@@ -18,8 +18,15 @@ Welcome to contribute!
 * [Public Review of Java MVC 1.0 Specification is Now Open](https://www.infoq.com/news/2018/01/mvc-1.0-public-review)
 * [Vote for Java EE's New Name](https://www.infoq.com/news/2018/02/JavaEENewNameJan18)
 * [From Java EE to Jakarta EE: the Java EE Guardians Rebranding Debate with Oracle](https://www.infoq.com/news/2018/02/from-javaee-to-jakartaee)
-* [New home of Jakarta EE(Next generation of Java EE)](https://jakarta.ee/)
+
 * [Java EE 8 and the Open Future of Java EE ](https://dzone.com/articles/java-ee-8-and-the-open-future-of-java-ee)
+
+## Jakarta EE 8(Next generation of Java EE)
+
+* [New home of Jakarta EE](https://jakarta.ee/)
+* [Jakarta One](https://jakartaone.org/2019/)
+* [Eclipse EE4j Home page](https://projects.eclipse.org/projects/ee4j)
+* [Jakarta EE Tutorial](https://eclipse-ee4j.github.io/jakartaee-tutorial)
 
 ## Books
 
