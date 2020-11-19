@@ -1,4 +1,4 @@
-# awesome-javaee8
+# Awesome Java EE/Jakarta EE 8 Resources
 
 A centric checklist of awesome Java EE 8 resources, including news, blog entries, books, sample codes etc. 
 
@@ -18,10 +18,9 @@ Welcome to contribute!
 * [Public Review of Java MVC 1.0 Specification is Now Open](https://www.infoq.com/news/2018/01/mvc-1.0-public-review)
 * [Vote for Java EE's New Name](https://www.infoq.com/news/2018/02/JavaEENewNameJan18)
 * [From Java EE to Jakarta EE: the Java EE Guardians Rebranding Debate with Oracle](https://www.infoq.com/news/2018/02/from-javaee-to-jakartaee)
-
 * [Java EE 8 and the Open Future of Java EE ](https://dzone.com/articles/java-ee-8-and-the-open-future-of-java-ee)
 
-## Jakarta EE 8(Next generation of Java EE)
+## Jakarta EE 8(The next generation of Java EE)
 
 * [New home of Jakarta EE](https://jakarta.ee/)
 * [Jakarta One](https://jakartaone.org/2019/)
@@ -32,6 +31,7 @@ Welcome to contribute!
 ## Books
 
 * [Java EE 8 Recipes](https://www.apress.com/us/book/9781484235935) by Apress
+* [Building Modern Web Applications With Jakarta EE, NoSQL Databases and Microservices](https://www.amazon.co.uk/Building-Applications-Jakarta-Databases-Microservices/dp/9389423341)
 
 ## Java EE 8 learning resources
 
